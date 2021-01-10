@@ -1,3 +1,3 @@
 # Karthik Jangid
-### Batman
+### Resume
 ![Resume](resume.jpg)
